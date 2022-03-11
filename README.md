@@ -9,20 +9,21 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jjanczur](https://github.com/jjanczur)
+- 👨‍💻 All of my projects are available at [github.com/jjanczur](https://github.com/jjanczur)
 
-- 📝 I regularly write articles on [https://medium.com/@jacekjanczura](https://medium.com/@jacekjanczura)
+- 📝 I regularly write articles on [medium.com/@jacekjanczura](https://medium.com/@jacekjanczura)
 
 - 💬 Ask me about **blockchain, smart contracts, software architecture, Spring Boot**
 
 - 📫 How to reach me **jacek [a]t janczura.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jacekjanczura/](https://www.linkedin.com/in/jacekjanczura/)
+- 📄 Know about my experiences [linkedin.com/in/jacekjanczura/](https://www.linkedin.com/in/jacekjanczura/)
 
 - ⚡ Fun fact **I'm certified skydiver 🪂**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[https://blog.knowledgex.eu/how-to-run-your-python-code-in-knowledgex-749e2651370c](https://blog.knowledgex.eu/how-to-run-your-python-code-in-knowledgex-749e2651370c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
