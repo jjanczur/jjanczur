@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to run your python code in KnowledgeX](https://blog.knowledgex.eu/how-to-run-your-python-code-in-knowledgex-749e2651370c?source=rss-fe4ef9310fcd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
