@@ -22,6 +22,10 @@
 - ⚡ Fun fact **I'm certified skydiver 🪂**
 
 ### Blogs posts
+- [KnowledgeX Whitepaper](https://uploads-ssl.webflow.com/60c61ba2cfb8004dcf4a170a/620e3e034a534f0e9d4f1b31_KnowledgeX_Whitepaper-8.pdf)
+- [DeCoCo: Blockchain-based Decentralized Compensation of Digital Content Purchases](https://ieeexplore.ieee.org/document/9223299)
+- [Interview - Berlin Legal Tech Hackathon 2020](https://drive.google.com/file/d/1hkgS-g8Q8iHyTbULDBM71YDKcoTIIuW5/view)
+- [Saluki: Finding Taint-style Vulnerabilities with Static Property Checking](https://github.com/jjanczur/Saluki/blob/master/Saluki__Finding_Taint_style_Vulnerabilities_with_Static_Property_Checking.pdf)
 <!-- BLOG-POST-LIST:START -->
 - [How to run your python code in KnowledgeX](https://blog.knowledgex.eu/how-to-run-your-python-code-in-knowledgex-749e2651370c?source=rss-fe4ef9310fcd------2)
 <!-- BLOG-POST-LIST:END -->
