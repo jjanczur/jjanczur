@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [KnowledgeX Marketplace](https://www.knowledgex.eu/)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust for IOTA**
 
 - 👨‍💻 All of my projects are available at [github.com/jjanczur](https://github.com/jjanczur)
 
 - 📝 I regularly write articles on [medium.com/@jacekjanczura](https://medium.com/@jacekjanczura)
 
-- 💬 Ask me about **blockchain, smart contracts, software architecture, Spring Boot**
+- 💬 Ask me about **Blockchain, Smart Contracts, Software Architecture, Spring Boot**
 
 - 📫 How to reach me **jacek [a]t janczura.com**
 
