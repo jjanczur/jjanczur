@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacek Janczura</h1>
-<h3 align="center">A Software Engineer passionate about Blockchain! Based in beautiful city of Berlin.</h3>
+<h3 align="center">Technical Leader passionate about Blockchain! Based in beautiful city of Berlin.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjanczur&label=Profile%20views&color=0e75b6&style=flat" alt="jjanczur" /> </p>
 
