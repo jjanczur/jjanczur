@@ -27,6 +27,7 @@
 - [Interview - Berlin Legal Tech Hackathon 2020](https://drive.google.com/file/d/1hkgS-g8Q8iHyTbULDBM71YDKcoTIIuW5/view)
 - [Saluki: Finding Taint-style Vulnerabilities with Static Property Checking](https://github.com/jjanczur/Saluki/blob/master/Saluki__Finding_Taint_style_Vulnerabilities_with_Static_Property_Checking.pdf)
 <!-- BLOG-POST-LIST:START -->
+- [Utility NFTs — more than simple JPEGs?](https://medium.com/@jacekjanczura/utility-nfts-more-than-simple-jpegs-janczura-382a78e540d4?source=rss-fe4ef9310fcd------2)
 - [How to run your python code in KnowledgeX](https://blog.knowledgex.eu/how-to-run-your-python-code-in-knowledgex-749e2651370c?source=rss-fe4ef9310fcd------2)
 <!-- BLOG-POST-LIST:END -->
 
