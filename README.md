@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jacek Janczura</h1>
-<h3 align="center">Technical Leader passionate about Blockchain! Based in beautiful city of Berlin.</h3>
+<h3 align="center">Technical Leader passionate about LLMs! Based in beautiful city of Berlin/Warsaw/Madrid.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjanczur&label=Profile%20views&color=0e75b6&style=flat" alt="jjanczur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjanczur" alt="jjanczur" /></a> </p>
 
-- 🔭 I’m currently working on [KnowledgeX Marketplace](https://www.knowledgex.eu/)
+- 🔭 I’m currently working on [Taufolio](https://www.taufolio.com/)
 
 - 🌱 I’m currently learning **Rust for IOTA**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [medium.com/@jacekjanczura](https://medium.com/@jacekjanczura)
 
-- 💬 Ask me about **Blockchain, Smart Contracts, Software Architecture, Spring Boot**
+- 💬 Ask me about **AI, ML, Software Architecture, Spring Boot**
 
 - 📫 How to reach me **jacek [a]t janczura.com**
 
